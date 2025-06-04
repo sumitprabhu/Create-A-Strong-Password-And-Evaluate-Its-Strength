@@ -5,14 +5,12 @@ Task 6
 
 ## Objective
 
-To understand what makes a password strong by:
-- Creating passwords of varying complexity.
-- Testing them using an online password strength checker (e.g., [PasswordMeter](https://www.passwordmeter.com)).
-- Analyzing results and understanding best practices.
-- Researching common password attacks and how complexity improves security.
+To understand what makes a password strong and test it against password strength tools
 
 ---
-
+##Tools Used
+[PasswordMeter](https://www.passwordmeter.com)
+---
 ## Password Testing
 
 | Password            | Components Used                              | Length | PasswordMeter Score (%) | Feedback Summary                          |
@@ -27,12 +25,12 @@ To understand what makes a password strong by:
 
 ## Best Practices for Strong Passwords
 
-- ✅ Use **at least 12 characters**
-- ✅ Include a mix of **uppercase, lowercase, numbers, and symbols**
-- ✅ Avoid **common words or predictable substitutions**
-- ✅ Do **not** use **personal information** (e.g., your name, birthday)
-- ✅ Use **random phrases** or **passphrases**
-- ✅ Never reuse passwords across different platforms
+- Use **at least 12 characters**
+- Include a mix of **uppercase, lowercase, numbers, and symbols**
+- Avoid **common words or predictable substitutions**
+- Do **not** use **personal information** (e.g., your name, birthday)
+- Use **random phrases** or **passphrases**
+- Never reuse passwords across different platforms
 
 ---
 
