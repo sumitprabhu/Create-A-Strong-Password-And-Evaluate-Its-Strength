@@ -1,9 +1,9 @@
 # Create-A-Strong-Password-And-Evaluate-Its-Strength
 Task 6
 
-# 🔐 Password Strength Evaluation
+# Password Strength Evaluation
 
-## 🎯 Objective
+## Objective
 
 To understand what makes a password strong by:
 - Creating passwords of varying complexity.
@@ -13,20 +13,19 @@ To understand what makes a password strong by:
 
 ---
 
-## 🧪 Password Testing
+## Password Testing
 
 | Password            | Components Used                              | Length | PasswordMeter Score (%) | Feedback Summary                          |
 |---------------------|-----------------------------------------------|--------|--------------------------|-------------------------------------------|
-| `password123`       | Lowercase + Numbers                           | 11     | 18%                      | Too common, predictable, lacks symbols    |
-| `P@ssword`          | Uppercase + Lowercase + Symbol                | 8      | 50%                      | Moderate strength, too short              |
-| `P@ssw0rd2024!`     | Upper + Lower + Number + Symbol               | 13     | 88%                      | Strong password with good complexity      |
-| `H4r!3@9L2q^#`      | Upper + Lower + Number + Multiple Symbols     | 12     | 100%                     | Very strong, difficult to guess/crack     |
-| `qwerty`            | Lowercase only                                | 6      | 8%                       | Extremely weak, common pattern            |
-| `Sumit@5PM`         | Name + Symbol + Number + Upper & Lowercase   | 9      | 52%                      | Medium strength, contains personal info   |
+| `123456`       | Numbers                           | 6     | 18%                      | Very Weak    |
+| `Password`          | Uppercase + Lowercase                | 8      | 50%                      | Weak               |
+| `Pass@123`     | Upper + Lower + Number + Symbol               | 8     | 88%                      | Strong       |
+| `Lr1o7dBfHc9*$`      | Upper + Lower + Number + Multiple Symbols     | 13     | 100%                     | Very strong     |
+| `qwerty`            | Lowercase only                                | 6      | 8%                       | Very Weak          |
 
 ---
 
-## ✅ Best Practices for Strong Passwords
+## Best Practices for Strong Passwords
 
 - ✅ Use **at least 12 characters**
 - ✅ Include a mix of **uppercase, lowercase, numbers, and symbols**
@@ -37,7 +36,7 @@ To understand what makes a password strong by:
 
 ---
 
-## 🛡️ Common Password Attacks
+## Common Password Attacks
 
 | Attack Type         | Description                                                                 | Defense Strategy                           |
 |---------------------|-----------------------------------------------------------------------------|--------------------------------------------|
@@ -48,7 +47,7 @@ To understand what makes a password strong by:
 
 ---
 
-## 🔎 Password Complexity & Security
+## Password Complexity & Security
 
 | Complexity Level     | Score | Security Level |
 |----------------------|--------------------------|----------------|
