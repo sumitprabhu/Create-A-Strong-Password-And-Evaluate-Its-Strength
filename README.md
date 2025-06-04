@@ -56,7 +56,7 @@ To understand what makes a password strong and test it against password strength
 
 ---
 
-## Summary & Tips
+## Summary
 
 - The **longer** and **more complex**, the better.
 - **Unpredictable** passwords are much harder to crack.
