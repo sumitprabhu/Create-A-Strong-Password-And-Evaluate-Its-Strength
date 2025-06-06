@@ -8,7 +8,7 @@ Task 6
 To understand what makes a password strong and test it against password strength tools
 
 ---
-##Tools Used
+## Tools Used
 
 [PasswordMeter](https://www.passwordmeter.com)
 ---
